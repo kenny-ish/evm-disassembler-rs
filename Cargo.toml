@@ -1,0 +1,8 @@
+[package]
+name = "evm-disassembler-rs"
+version = "0.1.0"
+edition = "2021"
+description = "EVM bytecode disassembler"
+license = "MIT"
+
+[dependencies]
